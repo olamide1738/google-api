@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119839811341",
+    "project_id": "trippa-3f018",
+    "storage_bucket": "trippa-3f018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119839811341:android:a9407990112bf71ec9b244",
+        "android_client_info": {
+          "package_name": "com.olamide.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119839811341-8r7a4jd2293a7n8u4r8p29tce35irhrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy807mhKPPnAQ9KDE7Xm-f647OvgdvqBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119839811341-8r7a4jd2293a7n8u4r8p29tce35irhrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
